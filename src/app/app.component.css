@@ -1,0 +1,13 @@
+.navbar
+{
+    display: flex;
+    background-color: #ffffff;
+    justify-content: space-between;
+}
+/* .navbar-light .navbar-nav .nav-link
+{
+    color: #000000;
+    font-size: 16px;
+    text-decoration: underline;
+} */
+
